@@ -32,8 +32,3 @@ Ce repo contient les fonctions a consommer par notre application iOS (RateMe)
 - Confirmation email (GET): <a href ="localhost:3000/api/confirmation/:token">localhost:3000/api/user/confirmation/:
   token</a>
 - ModifierProfil (PUT): <a href ="localhost:3000/api/editProfil">localhost:3000/api/user/editProfil</a>
-
-## Auteurs
-
-- Mohamed Jameleddine Bouassida
-- Maher Ali
